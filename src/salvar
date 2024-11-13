@@ -1,0 +1,19 @@
+  <div class="footer-container">
+    <!-- Informações -->
+    <div class="footer-column">
+     
+            <!-- Atendimento ao Cliente -->
+    <div class="footer-column">
+    <h4>Atendimento ao cliente</h4>
+    <ul>
+    <li><a href="#">Contate-Nos</a></li>
+    <input type="text" placeholder="Reclame aqui">
+    <button>enviar</button>
+ </a></li>
+    </ul>
+    <div class="subscribe-section">
+    <h4>Cadastra-se para receber novas receitas!</h4>
+    <input type="email" placeholder="Endereço do Seu Email">
+    <input type="text" placeholder="Conta WhatsApp">
+    <button>Inscreva-se</button>
+    </div>
