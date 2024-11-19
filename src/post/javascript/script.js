@@ -162,5 +162,3 @@ function convertUnits() {
   
     document.getElementById('result').textContent = result.toFixed(2);
   }
-
-  
