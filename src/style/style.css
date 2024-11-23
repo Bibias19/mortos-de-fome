@@ -76,14 +76,14 @@
   display: flex;
   position: absolute;
   align-items: left;
-  left: 600px;
+  left: 250px;
 }
 .plante{
   width:45px;
   display: flex;
   position: absolute;
   align-items: left;
- right: 600px;
+ right: 250px;
 }
 
 .categorias-main {
@@ -94,11 +94,13 @@
 
 
 .rec-title {
-  display: flex;
-  justify-content: left;
-  position: relative;
-  margin-left:100px
-  
+     display: flex
+;
+    justify-content: left;
+    position: relative;
+    margin-left: 100px;
+    margin-top: 40px;
+    margin-bottom: 5px;
 }
 
 
@@ -108,7 +110,8 @@
   gap: 2rem;
   padding: 2rem;
   max-width: 1200px;
-  margin: 0 auto;
+  margin: 0 auto;]
+   ;
 }
 
 .cartao a {
@@ -283,7 +286,21 @@
     gap: 1rem;
   }
 }
-span{
+.fileira1{
   color: #228B22;
 }
+.fundo{
+  width: 100%;
 
+}
+.doces{
+  width: 30px;
+}
+.doci{
+  color: rgb(62, 21, 247);
+  margin: 1px;
+}
+.salgado{
+  color: rgb(202, 22, 22);
+}
+.1
